@@ -25,7 +25,7 @@ a:hover {
 
 .main-nav {
   width: 100%;
-  background: black;
+  background: radial-gradient(80% 40%, white, black);
   min-height: 30px;
   padding: 10px;
   position: fixed;
