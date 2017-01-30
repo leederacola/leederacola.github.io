@@ -35,6 +35,7 @@ a:hover {
 }
 .nav {
   display: flex;
+   background: black
   justify-content: space-around;
   font-weight: 700;
   list-style-type: none;
