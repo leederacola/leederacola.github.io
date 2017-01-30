@@ -18,7 +18,7 @@ a {
   color: white
 }
 a:hover {
-  color: white;
+  color: black;
   transform: scale(1.2);
   
 }
@@ -56,7 +56,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: background: radial-gradient(80% 40%, white, black);
+  background: background: radial-gradient(80% 40%, gray, black);
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
